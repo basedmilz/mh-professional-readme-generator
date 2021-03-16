@@ -4,7 +4,7 @@ Using node you can create a professional ReadMe file
 
 Creates a customized ReadMe file based on answers prompts in your terminal
 
-![GIF](mh-professional-readme-generator/utils/video/readmegenerator.gif)
+![GIF](utils/video/readmegenerator.gif)
 
 
 ## User Story
