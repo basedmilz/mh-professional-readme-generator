@@ -11,7 +11,7 @@ const questions = [
     {
         type: 'input',
         message: 'What is your project name?',
-        name: 'title',
+        name: 'name',
     },
     {
         type: 'input',
@@ -64,7 +64,7 @@ const questions = [
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
-        err ? console.log(err) : console.log('Your ReadMe has been generated!');
+        err ? console.log(err) : console.log('Your ReadME creation was a success!');
     })
 }
 
